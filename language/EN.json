@@ -190,7 +190,7 @@
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "*TokyoBot Downloading Your Video🎥*",
-            "UPLOADING_VIDEO": "*Uploading🕺*",
+            "UPLOADING_VIDEO": "*TokyoBot Uploading Your Video 📷🕺*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -198,7 +198,7 @@
             "SEARCHING": "* TokyoBot🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "Uploading photo ```{}``` number ```{} ```..."
+            "IMG": "TokyoBot Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
