@@ -244,7 +244,7 @@ else if (Config.WORKTYPE == 'public') {
         await message.sendMessage(
             Buffer.from(IMGWADATA.data),
             MessageType.image, 
-            { mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'}
+            { mimetype: Mimetype.jpg, caption: 'Made by TokyoBot'}
         )
     }));
     Asena.addCommand({pattern: 'colorai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {    
@@ -285,7 +285,7 @@ else if (Config.WORKTYPE == 'public') {
                     image: fs.createReadStream("./output.jpg"),
                 });
                 var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
-                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'})
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by TokyoBot'})
             });
             return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
@@ -306,7 +306,7 @@ else if (Config.WORKTYPE == 'public') {
                     image: fs.createReadStream("./output.jpg"),
                 });
                 var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
-                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'})
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by TokyoBot'})
             });
             return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
@@ -334,7 +334,7 @@ else if (Config.WORKTYPE == 'public') {
                     image: fs.createReadStream("./output.jpg"),
                 });
                 var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
-                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by WhatsAsena'})
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by TokyoBot'})
             });
             return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
