@@ -241,7 +241,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~🎀______~𝙏𝙊𝙆𝙔𝙊𝘽𝙊𝙏~_____🎀~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n Please Contact Support Group To Solve This Error : Support Group https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR
+                                    '\n\n*🧞‍♂️ ' + error + '*\n
                                     , MessageType.text);
                             }
                         }
