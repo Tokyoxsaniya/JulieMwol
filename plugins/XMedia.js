@@ -2726,7 +2726,7 @@ else if (Config.WORKTYPE == 'public') {
             .format('mp4')
             .save('slowmo.mp4')
             .on('end', async () => {
-                await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by PLK'});
+                await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by Tokyo'});
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
