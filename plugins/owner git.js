@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Tokyo😎═════╗*\n           \n*⚜═Tokyo═⚜*\n\n*owner Midhlaj - http://Wa.me/+16393900059*\n* *\n🔰instagram:-https://www.instagram.com/mdhlj._?r=nametag*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Midhlaj*"
+    r_text[1] = "*╔═════🎀Tokyo🎀═════╗*\n           \n*⚜═Tokyo═⚜*\n\n*owner Midhlaj - http://Wa.me/+1000000000*\n* *\n💃instagram:-https://instagram.com/ursulolita?utm_medium=copy_link*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Saniya*"
 
     
     await message.client.sendMessage(
