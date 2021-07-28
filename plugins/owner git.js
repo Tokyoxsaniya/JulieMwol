@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           \n*🎀═Tokyo Owner Saniya═🎀*\n\n*💃https://github.com/under/maintenance*\n \n*⚜link To Set Bot:-Join Grp https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yBybmjr"
+        r_text[1] = "*Git links*\n           \n*🎀═Tokyo Owner Saniya═🎀*\n\n*💃https://github.com/under/maintenance*\n \n*⚜link To Set Bot:-Join Grp https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR"
 
     
         await message.client.sendMessage(
