@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════🎀Tokyo🎀═════╗*\n           \n*⚜═Tokyo═⚜*\n\n*owner Saniya - http://Wa.me/+10000000*\n* *\n💃instagram:-https://instagram.com/ursulolita?utm_medium=copy_link*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Saniya*"
+    r_text[1] = "*╔═════🎀Tokyo🎀═════╗*\n           \n*⚜═Tokyo═⚜*\n\n*owner Saniya - http://Wa.me/+10000000*\n* *\n💃instagram:-https://instagram.com/invalid?utm_medium=copy_link*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Saniya*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           \n*🎀═Tokyo Owner Saniya═🎀*\n\n*💃https://github.com/under/maintenance*\n \n*⚜link To Set Bot:-Join Grp https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR"
+        r_text[1] = "*Git links*\n           \n*🎀═Tokyo Owner Saniya═🎀*\n\n*💃https://github.com/under/maintenance*\n \n*⚜link To Set Bot:-Join Grp https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yBybmjr"
 
     
         await message.client.sendMessage(
