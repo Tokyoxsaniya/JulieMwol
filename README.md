@@ -5,7 +5,7 @@
 <a href="#"><img title="Tokyo" src="https://img.shields.io/badge/Tokyo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Tokyoxsaniya"><img title="Author" src="https://img.shields.io/badge/Author-Tokyo-xsaniya/Tokyo?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Tokyoxsaniya"><img title="Author" src="https://img.shields.io/badge/Author-Tokyo-xsaniya/Tokyo?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -20,13 +20,13 @@ Project created by <a href="https://github.com/Tokyoxsaniya">Tokyoxsaniya</a> to
 
   <p align="center">
   <a href="httsp://github.com/Tokyoxsaniya/Tokyo">
-    <img src="https://img.shields.io/github/repo-size/Tokyoxsaniya/Tokyo?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Tokyoxsaniya/Tokyo?color=pink&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Tokyoxsaniya/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tokyoxsaniya?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tokyoxsaniya/Tokyo/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tokyoxsaniya/Tokyo?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tokyoxsaniya/Tokyo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tokyoxsaniya/Tokyo?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tokyoxsaniya/Tokyo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tokyoxsaniya/Tokyo?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/Tokyoxsaniya/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tokyoxsaniya?color=pink&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/Tokyo/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tokyoxsaniya/Tokyo?color=pink&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/Tokyo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tokyoxsaniya/Tokyo?color=pink&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/Tokyo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tokyoxsaniya/Tokyo?label=Watchers&color=pink&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
 ## 📢 Guide
