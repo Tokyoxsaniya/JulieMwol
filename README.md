@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="Tokyo.png" width="200" height="200"/>
+  <img border-radius: 15px src="Tokyo.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Tokyo" src="https://img.shields.io/badge/Tokyo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
