@@ -76,7 +76,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```TokyoBot Restarting🎀...```",
+            "RESTART_MSG": "```TokyoBot Restarting🦄...```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down 👋```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -113,16 +113,16 @@
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome hi && hi#how are you?```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
+            "WELCOME_ALREADY_SETTED": "*🦄 Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome hi && hi#how are you?```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ TokyoBot Setted Welcome Message In This Group!*",
+            "WELCOME_SETTED": "*🦄 TokyoBot Setted Welcome Message In This Group!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅ TokyoBot Setted Goodbye Message In This Group!*"
+            "GOODBYE_SETTED": "*🦄 TokyoBot Setted Goodbye Message In This Group!*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -148,9 +148,9 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going In This Group🤠```",
+            "KICKME": "```Bye bye! I am going In This Group🦄```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*Give me a photo!🦄*",
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
@@ -203,7 +203,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```TokyoBot Converting🖥️```"
+            "DOWNLOADING": "```Converting photo to sticker🦄```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -229,9 +229,9 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "*TokyoBot Updating..🗼*",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*✅  Updated!💃*",
-            "UPDATED_LOCAL": "*✅ Updated!💃*",
-            "AFTER_UPDATE": "*TokyoBot Restarting🤗!*",
+            "UPDATED": "*🦄 Updated!*",
+            "UPDATED_LOCAL": "*🦄 Updated!*",
+            "AFTER_UPDATE": "*TokyoBot Restarting!🎀*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -280,10 +280,10 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Converting Video to Audio..🧬```",
+            "MP4TOAUDİO": "```Converting Video to Audio..🦄```",
             "ANİM_STİCK": "Converts animated stickers to video.",
             "ANİMATE": "```Converting Animated Sticker To Video..```",
-            "STİCKER_DESC": "Converts the sticker to a photo.💃",
+            "STİCKER_DESC": "Converts the sticker to a photo.🦄",
             "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!🤗*",
             "STİCKER": "```Converting the sticker to a photo..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
@@ -383,7 +383,7 @@
             "SPAM_DESC": "It spam until you stop it.\n⌨️ Example: .spam test",
             "NEED_WORD": "*Need Some Words!*",
             "STOP_SPAMDESC": "Stops spam command.",
-            "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*",
+            "STOP_SPAM": "🦄 *Spam successfully stopped! Please wait a moment.*",
             "ST_DESC": "Convert the replied photo or video to sticker and send it as spam.",
             "ST_ST": "```Please Don't Reply to Stciker!```\n```Only Reply to Video or Photo!```",
             "ST_NEED": "```You Must Reply To Any Video Or Photo!```",
